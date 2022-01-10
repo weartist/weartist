@@ -19,4 +19,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slidoooor&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyGriffith&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyGriffith)](https://github.com/anuraghazra/github-readme-stats)
