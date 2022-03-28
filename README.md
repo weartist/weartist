@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 <!-- | <a href="https://github.com/weartist/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weartist&layout=compact&theme=buefy&hide_border=true" /></a> | -->
 
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
