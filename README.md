@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" vertical-align="20%" width="37%" src="/github-metrics.svg" alt="Metrics">
+<img align="left" vertical-align="20%" width="41%" src="/github-metrics.svg" alt="Metrics">
 
 <!-- |  -->
 <img vertical-align="baseline" width="59%" src="https://github-readme-stats.vercel.app/api?username=weartist&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="hans's github stats" /></a> 
