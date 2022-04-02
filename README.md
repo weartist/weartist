@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" vertical-align="middle" width="50%" src="/github-metrics.svg" alt="Metrics">
+<img align="right" vertical-align="middle" width="50%" src="/github-metrics.svg" alt="Metrics">
 <!-- |  -->
-<img vertical-align="middle" width="44%" src="https://github-readme-stats.vercel.app/api?username=weartist&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="hans's github stats" /></a> 
+<img align="left" vertical-align="middle" width="44%" src="https://github-readme-stats.vercel.app/api?username=weartist&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="hans's github stats" /></a> 
 
-<img align="right" vertical-align="middle" width="41%" src="/dogs.gif">
+<img align="left" vertical-align="middle" width="41%" src="/dogs.gif">
 
 <!-- | <a href="https://github.com/weartist/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weartist&layout=compact&theme=buefy&hide_border=true" />
