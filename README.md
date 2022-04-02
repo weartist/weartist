@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 
 <img align="left" vertical-align="20%" width="41%" src="/github-metrics.svg" alt="Metrics">
-
 <!-- |  -->
 <img vertical-align="baseline" width="56%" src="https://github-readme-stats.vercel.app/api?username=weartist&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="hans's github stats" /></a> 
+
+<img align="right" vertical-align="20%" width="41%" src="/dogs.gif">
 
 <!-- | <a href="https://github.com/weartist/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weartist&layout=compact&theme=buefy&hide_border=true" />
