@@ -25,4 +25,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weartist&layout=compact&theme=buefy&hide_border=true" />
 </a> | -->
 
-<a href="https://wakatime.com/@37c1065a-a67e-45d9-8550-40249c690cb8"><img align="right" src="https://wakatime.com/badge/user/37c1065a-a67e-45d9-8550-40249c690cb8.svg" alt="Total time coded since Jul 9 2021" /></a>
+<a href="https://wakatime.com/@37c1065a-a67e-45d9-8550-40249c690cb8"><img align="right" width="45%" src="https://wakatime.com/badge/user/37c1065a-a67e-45d9-8550-40249c690cb8.svg" alt="Total time coded since Jul 9 2021" /></a>
