@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://wakatime.com/@37c1065a-a67e-45d9-8550-40249c690cb8"><img style="margin-left:11.5cm" src="https://wakatime.com/badge/user/37c1065a-a67e-45d9-8550-40249c690cb8.svg" alt="Total time coded since Jul 9 2021" /></a>
+<a href="https://wakatime.com/@37c1065a-a67e-45d9-8550-40249c690cb8"><img style="margin-left:31.5cm" src="https://wakatime.com/badge/user/37c1065a-a67e-45d9-8550-40249c690cb8.svg" alt="Total time coded since Jul 9 2021" /></a>
 <img align="right" vertical-align="middle" width="50%" src="/github-metrics.svg" alt="Metrics">
 <img align="left" vertical-align="middle" width="45%" src="https://github-readme-stats.vercel.app/api?username=weartist&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="hans's github stats" /></a> 
 
